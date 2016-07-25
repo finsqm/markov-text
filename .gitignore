@@ -2,3 +2,5 @@
 *.db
 .venv
 .DS_Store
+twitter_config.py
+*.log
